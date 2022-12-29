@@ -1,0 +1,19 @@
+﻿<Window x:Class="PP4_Project.Table"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PP4_Project"
+        xmlns:col="clr-namespace:System.Collections;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="Table" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="paymentGrid" AutoGenerateColumns="False" HorizontalGridLinesBrush="DarkGray"
+    RowBackground="LightGray" AlternatingRowBackground="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Месяц" IsReadOnly="True" Binding="{Binding Path=Term}" Width="90" />
+                <DataGridTextColumn Header="Платеж" IsReadOnly="True" Binding="{Binding Path=Payment}" Width="50" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

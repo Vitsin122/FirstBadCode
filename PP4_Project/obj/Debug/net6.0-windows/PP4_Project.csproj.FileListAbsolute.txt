@@ -1,0 +1,215 @@
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.exe
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.deps.json
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.runtimeconfig.json
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.pdb
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.AssemblyReference.cache
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.cache
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.lref
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.g.resources
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfoInputs.cache
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfo.cs
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CoreCompileInputs.cache
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ref\PP4_Project.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.pdb
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.genruntimeconfig.cache
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.baml
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.exe
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.deps.json
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.runtimeconfig.json
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.pdb
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.AssemblyReference.cache
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\App.g.cs
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.cache
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.lref
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.baml
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.baml
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.g.resources
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfoInputs.cache
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfo.cs
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CoreCompileInputs.cache
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.dll
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\refint\PP4_Project.dll
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.pdb
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.genruntimeconfig.cache
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ref\PP4_Project.dll
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll.config
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CopyComplete
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.exe
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll.config
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.deps.json
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.runtimeconfig.json
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.pdb
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.AssemblyReference.cache
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\App.g.cs
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.cache
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.lref
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.baml
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.baml
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.g.resources
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfoInputs.cache
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfo.cs
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CoreCompileInputs.cache
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CopyComplete
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.dll
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\refint\PP4_Project.dll
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.pdb
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.genruntimeconfig.cache
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ref\PP4_Project.dll
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\Functions.g.cs
+E:\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\Functions.baml
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll.config
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CopyComplete
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\refint\PP4_Project.dll
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\Profile.g.cs
+C:\Users\Vitsin\source\repos\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\Profile.baml
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.exe
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll.config
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.deps.json
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.runtimeconfig.json
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\ref\PP4_Project.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.pdb
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.AssemblyReference.cache
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\Profile.g.cs
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\App.g.cs
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.cache
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.lref
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.baml
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\Profile.baml
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.baml
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.g.resources
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfoInputs.cache
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfo.cs
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CoreCompileInputs.cache
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CopyComplete
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ref\PP4_Project.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.pdb
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.genruntimeconfig.cache
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.exe
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll.config
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.deps.json
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.runtimeconfig.json
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.pdb
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.AssemblyReference.cache
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\Profile.g.cs
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\App.g.cs
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.cache
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.lref
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\MainWindow.baml
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\Profile.baml
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.baml
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.g.resources
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfoInputs.cache
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfo.cs
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CoreCompileInputs.cache
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CopyComplete
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\refint\PP4_Project.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.pdb
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.genruntimeconfig.cache
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ref\PP4_Project.dll
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ChangePassWindow.g.cs
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ChangePassWindow.baml
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ConfirmEmailWindow.g.cs
+E:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ConfirmEmailWindow.baml
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ChangePassWindow.g.cs
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ConfirmEmailWindow.g.cs
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ChangePassWindow.baml
+D:\PIPIPUPU\PP4_Project\PP4_Project\obj\Debug\net6.0-windows\ConfirmEmailWindow.baml
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.exe
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll.config
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.deps.json
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.runtimeconfig.json
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\PP4_Project.pdb
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.AssemblyReference.cache
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\ChangePassWindow.g.cs
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\ConfirmEmailWindow.g.cs
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\Profile.g.cs
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.g.cs
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.cache
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project_MarkupCompile.lref
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\ChangePassWindow.baml
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\ConfirmEmailWindow.baml
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\Profile.baml
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\RegisterWindow.baml
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.g.resources
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.AssemblyInfo.cs
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.csproj.CopyComplete
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\refint\PP4_Project.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.pdb
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\PP4_Project.genruntimeconfig.cache
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\ref\PP4_Project.dll
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\Table.g.cs
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\Table.baml
+C:\Users\Danil\Desktop\PIPIPUPU 2\PP4_Project — копия\PP4_Project\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs

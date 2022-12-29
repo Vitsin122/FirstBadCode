@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="ChangePassWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ConfirmEmailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Profile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegisterWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Table.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ChangePassWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ConfirmEmailWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Profile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegisterWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Table.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
